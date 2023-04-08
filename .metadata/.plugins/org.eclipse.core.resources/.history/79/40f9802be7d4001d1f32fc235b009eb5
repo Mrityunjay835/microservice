@@ -1,0 +1,5 @@
+package com.userMicroservice.playload;
+
+public class ApiException {
+
+}

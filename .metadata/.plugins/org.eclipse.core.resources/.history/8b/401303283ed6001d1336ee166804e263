@@ -1,0 +1,5 @@
+package com.userMicroservice.repository;
+
+public class HotelRepository {
+
+}

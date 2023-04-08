@@ -1,0 +1,20 @@
+package com.userMicroservice.services;
+
+import java.util.List;
+
+import com.userMicroservice.entitits.User;
+
+public interface UserService {
+	
+	User saveUser(User user);
+	
+	List<User> getAllUser();
+	
+	User getUserById(Integer userId);
+	
+	void deleteUser(Integer userId);
+	
+	User updateUser(User user, Integer userId);
+	
+
+}

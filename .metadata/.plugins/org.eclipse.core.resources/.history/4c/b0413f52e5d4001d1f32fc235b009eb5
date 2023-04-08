@@ -1,0 +1,5 @@
+package com.userMicroservice.services;
+
+public class UserService {
+
+}

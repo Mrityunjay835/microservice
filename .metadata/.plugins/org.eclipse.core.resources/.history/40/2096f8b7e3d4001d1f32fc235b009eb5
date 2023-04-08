@@ -1,0 +1,5 @@
+package com.userMicroservice.entity;
+
+public class User {
+
+}
