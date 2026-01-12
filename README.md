@@ -5,7 +5,6 @@
 This project is a **Microservices Architecture** demo, showcasing how to design, develop, and deploy loosely coupled services that communicate over standard protocols. Each microservice handles a distinct domain of the application, enabling modular development, independent scaling, and improved maintainability.
 
 ## Features
-
 - **Service Isolation:** Each microservice is independently deployable and scalable.
 - **API Gateway:** Central entry point for routing requests to relevant services.
 - **Service Discovery:** Dynamically locates services in the environment.
